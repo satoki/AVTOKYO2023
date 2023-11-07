@@ -7,7 +7,7 @@
 
 **講演者紹介：** Webアプリケーションつんつん職人。CTFプレイヤー、バグハンターとして活動。SECCON CTFの運営メンバ、AVTOKYO2020の登壇、DEF CON CTF Finalsへ出場。GoogleやFirefoxを含む多数のWebサイトやソフトウェアの脆弱性を発見し報告している。
 
-**[PDF (Japanese)]()**  
+**[PDF (日本語)](AVTOKYO2023_ja.pdf)**  
 
 ## Defeat the LLM: Techniques for Prompt Injection and Filter Bypass in AI
 **Abstract :** A Prompt Injection Attack is an assault where special instructions are inputted into an AI chatbot, resulting in outputs not intended by the  developer/operator. Through this attack, one can potentially steal  confidential information stored within the AI chatbot or induce it to engage in unethical behaviors, thereby damaging the site's reputation.
@@ -16,4 +16,4 @@ In this presentation, we will introduce payloads and bypass techniques  for inpu
 
 **Speakers Bio :** Cybersecurity Enthusiast, CTF Player and Bug Hunter. Contributed to the organization of SECCON CTF, took the stage at AVTOKYO2020, and competed in the DEF CON CTF Finals. Renowned for uncovering  vulnerabilities in high-profile platforms, having reported issues in the likes of Google and Firefox.
 
-**[PDF (English)]()**  
+**[PDF (English)](AVTOKYO2023_en.pdf)**  
